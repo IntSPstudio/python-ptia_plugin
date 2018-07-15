@@ -1,2 +1,1 @@
-# python-ptia_plugin
-Python tui plugin
+# PTIA plugin
