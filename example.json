@@ -1,0 +1,80 @@
+{
+    "P01": {
+        "Title": "Home",
+        "R02": {
+            "Title": "Execute",
+            "Link": "P02"
+        },
+        "R03": {
+            "Title": "Logger",
+            "Link": "P03"
+        },
+        "R04": {
+            "Title": "Profile",
+            "Link": "P04"
+        },
+        "R05": {
+            "Title": "Settings",
+            "Link": "P05"
+        },
+        "R06": {
+            "Title": "Exit",
+            "Link": "P00"
+        }
+    },
+    "P02": {
+        "Title": "Execute",
+        "R01": {
+            "Title": "ID"
+        },
+        "R02": {
+            "Title": "Command"
+        },
+        "R03": {
+            "Title": "Exit",
+            "Link": "P01"
+        }
+    },
+    "P03": {
+        "Title": "Logger",
+        "R01": {
+            "Title": "Example 1"
+        },
+        "R02": {
+            "Title": "Example 2"
+        },
+        "R03": {
+            "Title": "Exit",
+            "Link": "P01"
+        }
+    },
+    "P04": {
+        "Title": "Profile",
+        "R01": {
+            "Title": "Example 1"
+        },
+        "R02": {
+            "Title": "Example 2"
+        },
+        "R03": {
+            "Title": "Exit",
+            "Link": "P01"
+        }
+    },
+    "P05": {
+        "Title": "Settings",
+        "R01": {
+            "Title": "Setting 1"
+        },
+        "R02": {
+            "Title": "Setting 2"
+        },
+        "R03": {
+            "Title": "Setting 3"
+        },
+        "R04": {
+            "Title": "Exit",
+            "Link": "P01"
+        }
+    }
+}
